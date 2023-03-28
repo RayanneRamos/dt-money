@@ -28,6 +28,8 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
     const response = await api.get('transactions', {
       params: {
         q: query,
+        _sort: 'createdAt',
+        _order: 'desc',
       }
     });
 
