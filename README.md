@@ -16,6 +16,13 @@
 
 [DT Money](https://dt-money-pjzalrilq-rayanneramos.vercel.app/) é o terceiro projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar uma aplicação que calcula a entrada e a saída de transações do usuário.
 
+## 🌟 Funcionalidades
+
+1. **Registrar entradas e saídas**: O usuário pode adicionar transações de receita (entrada) e despesa (saída). 
+2. **Visualização do saldo**: O sistema calcula automaticamente o saldo atual com base nas transações registradas. 
+3. **Histórico de transações**: Permite acompanhar todas as transações feitas ao longo do tempo.
+4. **Filtros e categorias**: As transações podem ser categorizadas e filtradas para facilitar a organização e o acompanhamento financeiro.
+
 ## 🧪 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
