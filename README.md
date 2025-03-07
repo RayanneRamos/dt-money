@@ -23,7 +23,7 @@
 3. **Histórico de transações**: Permite acompanhar todas as transações feitas ao longo do tempo.
 4. **Filtros e categorias**: As transações podem ser categorizadas e filtradas para facilitar a organização e o acompanhamento financeiro.
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
